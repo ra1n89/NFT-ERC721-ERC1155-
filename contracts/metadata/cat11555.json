@@ -1,0 +1,27 @@
+{
+    "name": "Leo Cat",
+    "description": "Leo is wild cat which can win any dog",
+    "image": "https://ipfs.io/ipfs/QmRLrAHdARdCRWMt7Lf6xh9ixpxA9XAGeEKhvzzR9Hs6Pf",
+    "attributes": [
+        {
+            "trait_type": "Strength",
+            "value": 10,
+            "max_value": 10
+        },
+        {
+            "trait_type": "Pretteness",
+            "value": 7,
+            "max_value": 10
+        },
+        {
+            "trait_type": "Speed",
+            "value": 7,
+            "max_value": 10
+        },
+        {
+            "display_type": "boost_numvber",
+            "trait_type": "Speed",
+            "max_value": 50
+        }
+    ]
+}
