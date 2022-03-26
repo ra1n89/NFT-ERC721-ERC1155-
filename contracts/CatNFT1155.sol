@@ -20,7 +20,3 @@ contract CatNFT1155 is ERC1155 {
         _tokenIds.increment();
     }
 }
-
-// https: //ipfs.io/ipfs/QmTE9QLXSmZD2vuFxUyAuTENJqN45jddpPkxeJuD4aqDgV
-//0x8523de301d68310788165560e14093eb08040cd0
-//https://rinkeby.etherscan.io/address/0x8523de301d68310788165560e14093eb08040cd0#code
