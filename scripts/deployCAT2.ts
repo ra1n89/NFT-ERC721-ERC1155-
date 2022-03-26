@@ -9,7 +9,6 @@ async function main() {
     console.log("deployed by " + owner.address)
     const tnx = await catNft2.mint("https://ipfs.io/ipfs/QmQ6UkucExz1zceF9XmCan9P9mGYgmgoqvvbDMHEdpv73n")
     await tnx.wait();
-    //console.log(await catNft.gettokenURI(0))
 }
 
 main().catch((error) => {
