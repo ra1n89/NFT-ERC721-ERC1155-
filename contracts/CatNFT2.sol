@@ -18,8 +18,3 @@ contract CatNFT2 is ERC721URIStorage {
         return newItemId;
     }
 }
-
-//0xe90b0487b3B95A5Cb3d084Dbf02Bf0C4508ddbbe
-//json https://ipfs.io/ipfs/QmQ6UkucExz1zceF9XmCan9P9mGYgmgoqvvbDMHEdpv73n
-//image https://ipfs.io/ipfs/QmeGNQZYcoNX7TpFsCM8p3kzm9MpfyLwo3NHioLzGdBn2W
-//https://rinkeby.etherscan.io/address/0xe90b0487b3B95A5Cb3d084Dbf02Bf0C4508ddbbe#code
